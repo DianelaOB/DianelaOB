@@ -4,9 +4,11 @@ Computational Neuroscientist with a background in Physics and Complex Systems, i
 
 ## Research Profiles
 
-ORCID: https://orcid.org/0000-0002-8171-0703
-Google Scholar: https://scholar.google.com/citations?user=VFUsYNoAAAAJ&hl=en
-Zenodo: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Osorio%20%20Becerra%2C%20Dianela%20Andreina%22&l=list
+## Research Profiles
+
+- <img src="https://cdn.simpleicons.org/orcid" width="18" height="18"> [ORCID](https://orcid.org/0000-0002-8171-0703)
+- <img src="https://cdn.simpleicons.org/googlescholar" width="18" height="18"> [Google Scholar](https://scholar.google.com/citations?user=VFUsYNoAAAAJ&hl=en)
+- <img src="https://cdn.simpleicons.org/zenodo" width="18" height="18"> [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Osorio%20%20Becerra%2C%20Dianela%20Andreina%22&l=list)
 
 ## Open Science
 Some of my research code was developed within institutional and laboratory GitHub repositories during my PhD training and is therefore private or internal.
