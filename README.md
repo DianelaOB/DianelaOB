@@ -9,7 +9,8 @@ Computational Neuroscientist with a background in Physics and Complex Systems, i
 - <img src="https://cdn.simpleicons.org/zenodo" width="18" height="18"> [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Osorio%20%20Becerra%2C%20Dianela%20Andreina%22&l=list)
 
 ## Open Science
-Some of my research code was developed within institutional and laboratory GitHub repositories during my PhD training and is therefore private or internal.
+
+During my PhD, part of my research software was developed within institutional and laboratory GitHub organizations. As a result, some research repositories are private, and their public release is determined by institutional policies and collaboration agreements.
 
 I strongly support Open Science and FAIR principles. Whenever possible, I share code, research materials, and computational workflows for academic and collaborative purposes, subject to institutional and project policies.
 
